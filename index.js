@@ -2,10 +2,10 @@
 
 
 
-let player = {
-    name :"Sana",
-    chips : 150
-}
+// let player = {
+//     name :"Sana",
+//     chips : 150
+// }
 
 
 // array
